@@ -1,3 +1,3 @@
-# Funcitionprogams
+# Function progams
 This is my Programs 
 
